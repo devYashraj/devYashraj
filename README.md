@@ -1,4 +1,3 @@
-<img src="https://images.squarespace-cdn.com/content/v1/5fcd81855895864d895087ac/071f1059-36d1-4372-9fb0-d1ef75ba1308/Toronto-linkedin-banner+%284%29+%281%29.jpg?format=1500w" />
 
 <h3 align="center">Software Developer | Competitive Programmer</h3>
 
