@@ -6,13 +6,13 @@
 
 - 💬 Ask me about **Web development | Competitive programming**
 
-- 📫 How to reach me **dev.yashraj.admane@gmail.com**
+- 📫 How to reach me **yashraj.devcodes@gmail.com**
 
 - ⚡ Fun fact **(num & 1) is faster than (num % 2 == 1)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devyashraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devyashraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashrajadmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devyashraj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/capyashraj07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="capyashraj07" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/capyashraj07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="capyashraj07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devyashraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devyashraj" height="30" width="40" /></a>
