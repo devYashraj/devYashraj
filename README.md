@@ -1,8 +1,8 @@
 
-<h3 align="center">Software Developer | Competitive Programmer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Competitive Programmer</h3>
 
 
-- 🌱 I’m currently learning **React | Express**
+- 🚀 I've built projects using MERN | CodeIgniter
 
 - 💬 Ask me about **Web development | Competitive programming**
 
