@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer | Full Stack Developer | Competitive Programmer</h3>
 
 
-- 🚀 I've built projects using MERN | CodeIgniter
+- 🚀 I've built projects using MERN stack & CodeIgniter
 
-- 💬 Ask me about **Web development | Competitive programming**
+- 💬 Ask me about **Web development , Competitive programming**
 
 - 📫 How to reach me **yashraj.devcodes@gmail.com**
 
