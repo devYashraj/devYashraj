@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Web development , Competitive programming**
 
-- 📫 How to reach me **yashraj.devcodes@gmail.com**
+- 📫 Email:- **yashraj.devcodes@gmail.com**
 
 - ⚡ Fun fact **(num & 1) is faster than (num % 2 == 1)**
 
