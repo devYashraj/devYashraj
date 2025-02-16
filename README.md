@@ -4,7 +4,7 @@
 
 - 🔥 Passionate MCA graduate with a background in computer science, specializing in web application development using MERN stack, PHP and CodeIgniter.
   
-- 🚀 Adept at creating dynamic, responsive, and secure web applications, with hands-on experience in developing progressive web apps and e-commerce solutions.
+- 🚀 Adept at creating scalable, optimized and secure web applications, with hands-on experience in developing web apps, PWA's and OMS solutions.
   
 - 🧠 Proven problem solver with over 700 coding challenges related to data structures and algorithms solved on platforms like LeetCode, Codechef, and Codeforces.
   
@@ -12,7 +12,7 @@
   
 - 💪 Eager to leverage technical expertise and competitive programming skills to contribute to innovative projects.
   
-- 👨‍💻 Tech Stack / Skills
+- 👨‍💻 Tech stack / Skill set
   
       Languages - JavaScript, C++, Java, PHP, HTML/CSS
     
