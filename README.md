@@ -14,17 +14,15 @@
   
 - 👨‍💻 Tech Stack / Skills
   
-      Languages - JavaScript, C++, Java, PHP, HTML, CSS
+      Languages - JavaScript, C++, Java, PHP, HTML/CSS
     
-      Libraries / Frameworks - React.js, Redux Toolkit, Express.js, Node.js, CodeIgniter
+      Libraries / Frameworks - React, Redux Toolkit, Express.js, Node.js, CodeIgniter
     
-      Databases - MySQL, MongoDB
+      Databases - MySQL, MongoDB, Redis
     
-      Operating Systems - Windows, Linux
-    
-      Tools - Git, Postman
+      Developer Tools - Git, Docker, Postman, Nginx, Axios, JWT
 
-- 📫 Email - **yashraj.devcodes@gmail.com**
+- 📫 Email - **yashraj.admane.07@gmail.com**
 
 <h3 align="left">Online Profiles</h3>
 
