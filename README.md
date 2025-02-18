@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer </h3>
 <br>
 
-- 🔥 Passionate MCA graduate with a background in computer science, specializing in web application development using MERN stack, PHP and CodeIgniter.
+- 🔥 Passionate Junior Developer with a strong background in computer science, specializing in web application development using MERN stack, PHP and CodeIgniter.
   
 - 🚀 Adept at creating scalable, optimized and secure web applications, with hands-on experience in developing web apps, PWA's and OMS solutions.
   
